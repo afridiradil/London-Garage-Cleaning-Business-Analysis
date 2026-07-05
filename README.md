@@ -46,8 +46,6 @@ London-Garage-Cleaning-Business-Analysis
 
 ## 📊 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot after uploading it to the `images` folder.
-
 ![Dashboard](images/dashboard_preview.png)
 
 ---
